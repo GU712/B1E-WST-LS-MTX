@@ -24,6 +24,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR white][B]Yellowstone (2018-2021)[/B][/COLOR]</name>
+<externallink><LINKDAPAGINAALVO></externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/lcmDSMFa6NVjeCg9IO9KCxErRj2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eScHwfVVumgrHT9fHdDNhUpcFcR.jpg</fanart>
+<info>Assista aqui os episodios da série Yellowstone. 
+[COLOR orange][B]WESTERN[/B][/COLOR]
+[COLOR orange][B]04 TEMPS -  	37  EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2018 a 2021[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <name>[COLOR white][B]NOMEDASERIE (0000-0000)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/A1A-ACA-LS-KRP/main/C2-SRS-24.Horas-KRP</externallink>
 <thumbnail><CAPADASERIE></thumbnail>
