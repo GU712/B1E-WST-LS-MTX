@@ -188,20 +188,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>WESTERN</genre>  				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]Os Indomáveis (2007)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=pM83chat6kw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Indomaveis[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bbbcce9cd39d6cde4404e6792d54cc0217cd393$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Indomaveis - HD DUB[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7595e304dd59b465d55dc78d1c25d07632b9227f$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Indomaveis - FHD LEG[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Indomaveis.2007.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Indomaveis - FHD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/emXjVhz8LL4ZWahmUsk6YSg5wcU.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/cGvLAYful0KwitsoiPpRKZ3zyz8.jpg</fanart>				
-<info>O fazendeiro Dan Evans se dirige a Bisbee para esclarecer questões relativas à venda de sua terra quando ele testemunha os eventos finais de um assalto a uma carruagem liderada pelo famoso bandido Ben Wade. Pouco tempo depois, Wade é capturado pela lei em Bisbee e Evans se vê como um dos acompanhantes que levarão Wade para o Yuma de 3 a 10 em Contenção, com a recompensa de 200 dólares. O esforço de Evans para levar Wade para a estação é em parte um esforço para salvar sua terra, mas também parte de uma batalha interna para determinar se ele pode ser mais do que apenas um fazendeiro ingênuo aos olhos de seu filho impetuoso e pistoleiro William Evans. O transporte para Contenção é arriscado e repleto de emboscadas de índios, perseguições da turma vingativa de Wade e do comportamento clamoroso e sub-reptício de Wade, que torna o percurso ainda mais intenso.</info>				
-<genre>WESTERN</genre>  				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+								
 <item>				
 <title>[B][COLOR white]O Ouro de Mackenna (1969)[/COLOR][/B]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=Q3XVYjhKU-U$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Ouro de Mackenna[/B][/COLOR]</link>				
@@ -227,7 +214,32 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>WESTERN</genre>  				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+
+<item>				
+<title>[COLOR white][B]Os Indomáveis (2007)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=pM83chat6kw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Indomaveis[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bbbcce9cd39d6cde4404e6792d54cc0217cd393$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Indomaveis - HD DUB[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7595e304dd59b465d55dc78d1c25d07632b9227f$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Os Indomaveis - FHD LEG[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Indomaveis.2007.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Indomaveis - FHD DUB[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/emXjVhz8LL4ZWahmUsk6YSg5wcU.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/cGvLAYful0KwitsoiPpRKZ3zyz8.jpg</fanart>				
+<info>O fazendeiro Dan Evans se dirige a Bisbee para esclarecer questões relativas à venda de sua terra quando ele testemunha os eventos finais de um assalto a uma carruagem liderada pelo famoso bandido Ben Wade. Pouco tempo depois, Wade é capturado pela lei em Bisbee e Evans se vê como um dos acompanhantes que levarão Wade para o Yuma de 3 a 10 em Contenção, com a recompensa de 200 dólares. O esforço de Evans para levar Wade para a estação é em parte um esforço para salvar sua terra, mas também parte de uma batalha interna para determinar se ele pode ser mais do que apenas um fazendeiro ingênuo aos olhos de seu filho impetuoso e pistoleiro William Evans. O transporte para Contenção é arriscado e repleto de emboscadas de índios, perseguições da turma vingativa de Wade e do comportamento clamoroso e sub-reptício de Wade, que torna o percurso ainda mais intenso.</info>				
+<genre>WESTERN</genre>  				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<title>[B][COLOR white]Os Profissionais (1966)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=w9SSlNicCPc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c20747d833220a20f7774742eec9c40c606cb7f2$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDOFILME - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f37fcc450235c4b15a74911f338636542d33b71a$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD LEG[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Profissionais.1966.FHD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - DUB - LEGFIX[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xmdIp1L2PBqaSGZd7CJn5ZVqTZ8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h9qApa27FGXOaxK6gczeRE5O6Qi.jpg</fanart>
+<info>Um rico rancheiro, contrata mercenários, para resgatar sua esposa Maria, que foi ao México e acabou sendo pega por Jesus Raza e seu bando. </info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>				
 <title>[COLOR white][B]Os Últimos Machões (1976)[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=xdhqqY7pO8w$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Ultimos Machoes[/B][/COLOR]</link>				
