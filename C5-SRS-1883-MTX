@@ -18,8 +18,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+TORRENTS			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
 <item>			
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]1883 (2021) - HD LEG[/B][/COLOR]</title>			
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]1883 (2021) - T01 - FHD LEG[/B][/COLOR]</title>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86e95789d7bad6de41198c3c342bcade43f11970</link>			
+<thumbnail>https://www.themoviedb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/nMwc7s6YLmi1WHluEFmwHxdT8UW.jpg</fanart>			
+<info> A Família Dutton em uma jornada para o oeste  través das Grandes Planícies em direção ao último bastião da América indomada.</info>			
+<genre>WESTERN</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]1883 (2021) - T01 - HD LEG[/B][/COLOR]</title>			
 			
 <link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 08 EPs[/B][/COLOR]</link>			
 			
@@ -31,7 +45,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d56b143d00ad91a970ca8b5431bde83dc137a9f$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Entediando o Diabo [/B][/COLOR]</link>			
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b63f9823bc44f5da355b9ef0877cd67a607f8ee$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Raio de Cabelo Amarelo[/B][/COLOR]</link>			
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:255feeaa39396968e63b896751de5bf0d4294e07$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O choro da rendisao [/B][/COLOR]</link>			
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Nuvens de corrida [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d72bd1078e66dfdc96288c31627e499efca695ed$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Nuvens de corrida [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2301481064ca153be24d52031d3fbcacb2b65bc6$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Este nao e o seu ceu [/B][/COLOR]</link>			
 			
 <thumbnail>https://www.themoviedb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>			
 <fanart>https://www.themoviedb.org/t/p/original/nMwc7s6YLmi1WHluEFmwHxdT8UW.jpg</fanart>			
@@ -44,8 +59,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]1883 (2021) - T01 - HD LEG[/B][/COLOR]</title>			
 			
 <link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>			
-			
-			
+						
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/1883/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]1883 [/B][/COLOR]</link>			
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/1883/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Uma Colina Atras de Nos [/B][/COLOR]</link>			
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/1883/LS-T01E03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Rio [/B][/COLOR]</link>			
@@ -54,8 +68,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/1883/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Entediando o Diabo [/B][/COLOR]</link>			
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/1883/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Raio de Cabelo Amarelo[/B][/COLOR]</link>			
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/1883/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O choro da rendisao [/B][/COLOR]</link>			
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/1883/LS-T01E09.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Nuvens de corrida [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/1883/LS-T01E10.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Nuvens de corrida [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/1883/LS-T01E09.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Nuvens de corrida [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/1883/LS-T01E10.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Este nao e o seu ceu [/B][/COLOR]</link>			
 			
 <thumbnail>https://www.themoviedb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>			
 <fanart>https://www.themoviedb.org/t/p/original/nMwc7s6YLmi1WHluEFmwHxdT8UW.jpg</fanart>			
@@ -80,3 +94,4 @@ SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
