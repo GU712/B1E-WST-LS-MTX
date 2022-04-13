@@ -189,7 +189,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>WESTERN</genre>  				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-								
+
+<item>
+<title>[B][COLOR white]O Caminho do Guerreiro (2010)  [/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=hpQDM212Mjc $nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Caminho do Guerreiro[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:325f8f9458551000f412335b09526fba986802f8 $nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Caminho do Guerreiro - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:039950b0af187599bced5e6d74fa2345dc1ab88e $nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Caminho do Guerreiro - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-O.Caminho.do.Guerreiro.2010.FHD.DUAL+LEG.mkv $nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Caminho do Guerreiro - FHD DUAL - LEG[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gFB9jjKPuGWBUVmIcRHtMQZglin.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6FhmSHAmSjm5FGpLe2xqAl7ekFP.jpg</fanart>
+<info>Um assassino oriental é forçado a fugir de seu país em direção à América, onde se esconde no oeste dos Estados Unidos.</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>				
 <title>[B][COLOR white]O Ouro de Mackenna (1969)[/COLOR][/B]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=Q3XVYjhKU-U$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Ouro de Mackenna[/B][/COLOR]</link>				
