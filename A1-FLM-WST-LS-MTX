@@ -264,7 +264,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>WESTERN</genre>							
 </item>							
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
-							
+
+<item>
+<title>[COLOR white][B]O Soldado da Rainha (1952)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0mc11EXdVyY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Soldado da Rainha[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/FLMS/LS-O.Soldado.da.Rainha.1952.HD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Soldado da Rainha - HD DUB+LEG[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/y43YMkjmRn8cb6uZ7VW1gWBLcgB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2JIBoackWntl3CoyeIQFcioujMH.jpg</fanart>
+<info>Em 1876, um policial da Polícia Montada no noroeste do Canadá deve conseguir a libertação de reféns brancos capturados pelas tribos Cree.</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>							
 <title>[COLOR white][B]Os Últimos Machões (1976)[/B][/COLOR]</title>							
 <link>plugin://plugin.video.youtube/play/?video_id=xdhqqY7pO8w$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Ultimos Machoes[/B][/COLOR]</link>							
