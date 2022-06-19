@@ -146,13 +146,24 @@ item>
 		
 <link>NOLINK$nome=[COLOR orange][B] Temporada 04 - 18 EPs[/B][/COLOR]</link>		
 		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>		
-<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>		
-<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E01.avi$nome=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Uma raiva maior que a minha[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E02.avi$nome=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Raios[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E03.avi$nome=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]So os maus vem ate a Sonora[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E04.avi$nome=[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Vento[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E05.avi$nome=[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Uma Questao de Sobrevivencia[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E06.avi$nome=[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]E preciso um homem inteligente[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E07.avi$nome=[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Um Bom Lucro Som[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E08.avi$nome=[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Tarde demais o epitafio[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E09.avi$nome=[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]A Forja do Odio[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E10.avi$nome=[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Festa[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E11.avi$nome=[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Uma Questao de Vingansa[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E12.avi$nome=[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Guerreiro Palido[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E13.avi$nome=[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]O Distintivo[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E14.avi$nome=[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]O Novo Leao de Sonora(Parte 1)[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E15.avi$nome=[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white]O Novo Leao de Sonora(Parte 2)[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E16.avi$nome=[COLOR orange][B]T04E16[COLOR yellow] -> [COLOR white]Sangre[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E17.avi$nome=[COLOR orange][B]T04E17[COLOR yellow] -> [COLOR white]O Refem[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/5-WST/Chaparral/T04/LS-T04E18.avi$nome=[COLOR orange][B]T04E18[COLOR yellow] -> [COLOR white]Um homem para combinar com a terra[/B][/COLOR]</link>		
 		
 <thumbnail>https://www.themoviedb.org/t/p/original/xMAeIA4yXNYPd0dtqM7hN3hlDmu.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/uK8TlYFhat6hFYSGTwJMO9Uu2WN.jpg</fanart>		
@@ -160,20 +171,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>WESTERN</genre>		
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR black].[/COLOR]</title>		
-<link>ignoreme</link>		
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?		
-SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>		
-<link>ignoreme</link>		
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
