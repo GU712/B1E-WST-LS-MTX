@@ -128,6 +128,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "G"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
+<item>				
+<title>[COLOR white][B]Geronimo: Sangue de Apache (1962)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=DDZlDp4y37I$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Geronimo - Sangue de Apache[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Geronimo-Sangue%20de%20Apache.%201962.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Geronimo - Sangue de Apache - FHD DUAL[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/mO8jTUR212MuRs2aMajCe95gZ3W.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/uCA5AOtGe1JYV3woAk3bX8B0cWB.jpg</fanart>				
+<info>Em 1883, os ApacheS liderados por Geronimo se rendem as tropas americanas, em troca de um território e alimento para seus guerreiros.</info>				
+<genre>WESTERN</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "H"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -347,8 +358,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Shalako - HD DUAL[/B][/COLOR]</link>				
 				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D700364065ED2EBD8AE460BA2BDEEC81172DE31F$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Shalako - FHD DUAL+LEG[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Shalako.1968.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Shalako - FHD DUAL[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D700364065ED2EBD8AE460BA2BDEEC81172DE31F$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Shalako - FHD DUAL[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Shalako.1968.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Shalako - FHD DUAL+LEG[/B][/COLOR]</link>				
 <thumbnail>https://www.themoviedb.org/t/p/original/3uXbc6pXPOrgpW10ZxU6VOwvV2p.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/8TVvosxfCuTcms83HW4edlgszPs.jpg</fanart>				
 <info>Um grupo de aristocratas europeus estão em uma caçada no Novo México por volta do ano de 1880.Isso vai deixar os indios em pé de guerra</info>				
