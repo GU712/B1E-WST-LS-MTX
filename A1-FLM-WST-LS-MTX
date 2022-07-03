@@ -296,7 +296,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>WESTERN</genre>  							
 </item>							
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
-							
+
+<item>
+<title>[COLOR white][B]O Pequeno Grande Homem (1970)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fo1Pb4T9qhs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Pequeno Grande Homem[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98C2D5049BE85E8E4B41EA40F6B23CD3F346CECD$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Pequeno Grande Homem - HD DUAL[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Pequeno.Grande.Homem.1970.HD.LEGFIX.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Pequeno Grande Homem - HD LEG FIX[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pLvUVqadEI9cPrRlTru6ee71EWU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lWfxMcx8Kj8Y7wSEZDtgPnG0RaH.jpg</fanart>
+<info>As memórias de um velho de 121 anos que evoca os seus tempos no Oeste</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>							
 <title>[B][COLOR white]Os Profissionais (1966)[/COLOR][/B]</title>							
 <link>plugin://plugin.video.youtube/play/?video_id=w9SSlNicCPc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Os Profissionais[/B][/COLOR]</link>							
